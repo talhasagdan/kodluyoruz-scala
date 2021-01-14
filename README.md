@@ -1,4 +1,4 @@
-## Kodluyoruz Scala
+## Kodluyoruz Scala - Small Street Finder Program based on Command Prompt - Trendyol Data Talent Bootcamp 
 
 ### Mehmet Akif Tütüncü
 
