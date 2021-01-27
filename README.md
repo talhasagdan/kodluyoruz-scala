@@ -1,10 +1,12 @@
-## Scala - Small Street Finder Program based on Command Prompt - Kodluyoruz Trendyol Data Talent Bootcamp 
+## Scala - Small Street Finder Program based on Command Prompt && Implementation of List methods- Kodluyoruz Trendyol Data Talent Bootcamp 
 
 
-### The program search in "streets.csv" which contains all streets in Turkey. It is a cmd based small street finder program.
+### The first program search in "streets.csv" which contains all streets in Turkey. It is a cmd based small street finder program.
 
 
-<img src="talhasagdan_hw4/src/data/programgif.gif" />
+<img src="/scala-flist-streetfinder/src/data/programgif.gif" />
+
+### The second program which is flist includes implementation of map, flatmap, filter, toString, append, prepend, concat, size, isEmpty and fold methods in scala. 
 
 
 Project Created by Mehmet Akif Tütüncü
@@ -12,4 +14,4 @@ Project Created by Mehmet Akif Tütüncü
 
 Program wroted during Kodluyoruz - Trendyol Data Talent Bootcamp
 
-<img src="talhasagdan_hw4/src/data/trendyol_logo.jpeg" width=150/> <img src="talhasagdan_hw4/src/data/kodluyoruz_logo.jpg" width=150/>
+<img src="/scala-flist-streetfinder/src/img/30476529.png" width=150/> <img src="/scala-flist-streetfinder/src/img/1_posh7DaGCQA8Ku-qkxrdyQ.jpeg" width=150/>
